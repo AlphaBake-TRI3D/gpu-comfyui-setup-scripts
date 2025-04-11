@@ -61,6 +61,7 @@ You can customize your ComfyUI installation by modifying:
 - The setup assumes a fresh Ubuntu installation
 - All scripts should be run as the ubuntu user with sudo privileges
 - Make sure to properly secure your environment variables and credentials
+- Check start_server.py and stop_server.py in start_stop_machines folder 
 
 ## Support
 
