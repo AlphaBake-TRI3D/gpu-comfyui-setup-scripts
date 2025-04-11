@@ -1,0 +1,2 @@
+git@github.com:BadCafeCode/masquerade-nodes-comfyui.git,432cb4d146a391b387a0cd25ace824328b5b61cf
+git@github.com:kijai/ComfyUI-KJNodes.git,4c5c26a2c91de356212419ac8bc7fcf9869527e9

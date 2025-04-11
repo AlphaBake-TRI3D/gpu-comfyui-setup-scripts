@@ -1,1 +1,16 @@
+assumes you are in a cloud vm where root path is /home/ubuntu
+and you cloned  gpu-comfyui-setup-scripts 
+
+cd gpu-comfyui-setup-scripts/install_scripts
+cp .env_sample to .env && fill in the credentials depending on where you need to download from 
+bash full-setup.sh abc.xyz.com ( need to connect the IP in you dns management portal)
+
+cd ~/ComfyUI 
+source venv/bin/activate
+python main.py --port 3000 ( this is nginx forwared to 80)
+
+You would want to customise repos.txt and download-comfyui-models.sh for getting your workflows running
+
+
+
 
