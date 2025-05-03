@@ -1,3 +1,7 @@
+# Setup A100X8 GPU machines on Ubuntu 22.04 
+Follow the script in install-multi-gpu
+
+
 # GPU ComfyUI Setup Scripts
 
 This repository contains setup scripts for deploying ComfyUI with GPU support on cloud virtual machines.
